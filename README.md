@@ -1,7 +1,14 @@
 # Iniciando-Python-Script
 
-# En este repositorio se propone realizar un ejercicio de inicio con Python con un Script en que incluye crear, desplazar, eliminar y modificar carpetas y ficheros de dicho Script a nuestro sistema operativo. 
+ Este repositorio contiene un ejercicio introductorio en Python.
+ El script incluido permite crear, mover, eliminar y modificar carpetas
+ y archivos en el sistema operativo
 
-# En este caso, cuando se ejecute este Script se mostrara diferentes comportamientos en que hara que nuestro Script se automatice y realize diferentes tareas a nuestro sistema operativo según lo que se haya escrito en este codigo
+ Al ejecutar el script, se mostrarán distintos comportamientos que 
+ automatizan tareas del sistema, en funcion de las instrucciones 
+ definidas en el código
 
-# Es muy importante situarnos en cualquier ruta en que queremos ejecutar el Script
+ Es muy importante ejecutar el script desde la ruta deseada, ya que
+ las operaciones de archivos afectan directamente al sistema de 
+ archivos. El autor no se hace responsable de modificaciones no
+ deseadas provocadas por el uso del script
