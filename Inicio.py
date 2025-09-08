@@ -56,15 +56,22 @@ except FileExistsError:
 else:
     time.sleep(2) # Simulacion del tiempo de ejecucion
     print("El fichero 'archivoFinal.txt' ya copiado de 'copia.txt'")
+    print("Directorio actual: ", os.getcwd())
+
+# Copia 'copia.txt' en este directorio superior
+
+
+
+
 # Salto de linea
-print("\n")
+# print("\n")
 
 # Eliminacion de la carpeta Primero
-os.chdir(r'..')
-shutil.rmtree(r'.\\Primero')
-print("Eliminando el directorio...")
-time.sleep(2) # Simulacion del tiempo de ejecucion
-print("El directorio 'Primero', eliminado.")
-print('\n')
-print("FIN DEL SCRIPT. GRACIAS POR TODO")
-print('\n')
+# os.chdir(r'..')
+# shutil.rmtree(r'.\\Primero')
+# print("Eliminando el directorio...")
+# time.sleep(2) # Simulacion del tiempo de ejecucion
+# print("El directorio 'Primero', eliminado.")
+# print('\n')
+# print("FIN DEL SCRIPT. GRACIAS POR TODO")
+# print('\n')
