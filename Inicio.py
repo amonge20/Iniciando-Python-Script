@@ -191,19 +191,6 @@ with open('Resultado.txt','r') as r:
     contenido_archivoResultado = r.read() # Mostrar el contenido escrito
     print(contenido_archivoResultado)
 
-    
-# Mostramos las primeras 10 lineas del archivo
-print('\n')
-
-
-# Mostramos las primeras y ultimas 10 lineas del 'Resultado.txt'
-
-
-# Comprobamos la fecho de creación de los archivos
-
-
-# Haz un update del fichero 'archivoFinal.txt'
-
-
+# Fin del Script
 print("FIN DEL SCRIPT. GRACIAS POR TODO")
 print('\n')
